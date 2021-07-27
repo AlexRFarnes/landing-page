@@ -1,6 +1,6 @@
-# Portfolio project
+# Landing page project
 
-> A template for a portfolio made with Bootstrap 5.
+> A landing page for a fictional app made with Bootstrap 5.
 
 ## Table of contents
 
@@ -14,7 +14,15 @@
 
 ## General info
 
-A template for a portfolio made with Bootstrap 5 to practice using its classes, components, and to get used to read technical documentation.
+A landing page for a fictional app made with Bootstrap 5. It contains multiple sections: 
+    - navbar with scrollspy
+    - a hero section
+    - embedded video
+    - a carousel
+    - card components for different price tiers
+    - a form to signup to a newsletter
+The project was done to practice Bootstrap 5 styling and use of its components like the navbar, carousel, card, etc. 
+
 
 ## Screenshots
 
@@ -25,6 +33,7 @@ A template for a portfolio made with Bootstrap 5 to practice using its classes, 
 
 - HTML
 - Bootstrap 5
+- JavaScript
 
 ## Features
 
@@ -32,10 +41,8 @@ List of features ready and TODOs for future development
 
 - Bootstrap classes and components
 - Use the Bootstrap's grid system to make it fully responsive.
-- 3 Pages: 
+- 1 Page: 
     - Main page
-    - Portfolio
-    - Portfolio item overview
 
 ## Status
 
